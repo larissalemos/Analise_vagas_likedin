@@ -1,0 +1,808 @@
+,titulo,empresa,candidatos,seguidores_linkedin,dedicacao,senioridade,numero_colaboradores,setor,cidade,estado,pais,PYTHON,PANDAS,NUMPY,POWER BI,TABLEAU,EXCEL,SQL,MYSQL,POSTGRESQL,MONGODB,AI,ML
+0,PROJECT MANAGER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,1
+1,PROJECT MANAGER,Wipro,121,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,1
+2,PROJECT MANAGER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,1
+3,ADMINISTRATOR,Wipro,0,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,0
+4,JAVA DEVELOPER,LTIMindtree,22,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,0,1
+5,PROJECT MANAGER,Wipro,119,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,1
+6,SQL DEVELOPER,IDESLABS PRIVATE LIMITED,9,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,1,0,0,0,1,1
+7,ADMINISTRATOR,Wipro,39,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,0
+8,ADMINISTRATOR,Wipro,22,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,0
+9,TEST ENGINEER,Wipro,158,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+10,ADMINISTRATOR,Wipro,11,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+11,ADMINISTRATOR,Wipro,47,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+12,SERVICE LEVEL MANAGER,Wipro,20,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+13,ADMINISTRATOR,Wipro,71,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+14,PROJECT MANAGER,Wipro,1,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,1
+15,JAVA DEVELOPER,LTIMindtree,6,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,0,1
+16,SCRUM MASTER,LTIMindtree,21,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+17,SYSTEM ENGINEER,Wipro,104,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+18,TEST ENGINEER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+19,SYSTEM ENGINEER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+20,PLSQL DEVELOPMENT,LTIMindtree,48,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,1,0,0,0,1,1
+21,PROJECT MANAGER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,1
+22,LEAD ADMINISTRATOR,Wipro,5,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+23,JAVA DEVELOPER,LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,0,1
+24,LEAD ADMINISTRATOR,Wipro,8,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,1,0,0,0,0,0,1,0,0,1,1,0
+25,BUSINESS ANALYST,Wipro,0,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,1
+26,PROJECT MANAGER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,1
+27,DATABASE DEVELOPER,LTIMindtree,46,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+28,PROJECT MANAGER,Wipro,77,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,1
+29,MARKETING ASSOCIATE,Cactus Communications,39,531551,Tempo integral , Junior,"1,001-5,000 colaboradores ", Tecnologia da informação,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+30,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,62,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+31,TECHNICAL LEAD,Wipro,71,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,1
+32,BUSINESS ANALYST,Wipro,186,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+33,DEVELOPER,Wipro,191,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+34,LEAD ADMINISTRATOR,Wipro,2,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+35,TECHNICAL LEAD,Wipro,8,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,1
+36,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,42,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+37,DEVELOPER,Wipro,34,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+38,PL PM (SCRUM MASTER),LTIMindtree,31,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+39,DEVELOPER,Wipro,148,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Faridabad, Haryana, India,0,0,0,0,0,0,0,0,0,0,1,0
+40,MANUAL TESTER,IDESLABS PRIVATE LIMITED,178,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+41,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,46,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+42,PROGRAM MANAGER,LTIMindtree,3,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,0
+43,JAVA DEVELOPER,IDESLABS PRIVATE LIMITED,104,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,1,0,0,1,0
+44,PL SQL DEVELOPER,IDESLABS PRIVATE LIMITED,71,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+45,PROJECT LEAD,Wipro,27,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+46,JAVA DEVELOPER,LTIMindtree,6,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+47,PROJECT LEAD,Wipro,34,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+48,BA P AND C INSURANCE BILLING,LTIMindtree,14,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,0,1
+49,CONSULTANT TECHNOLOGY & IMPLEMENTATION,Wipro,72,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+50,DEVOPS ENGINEER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,1
+51,DELIVERY MANAGER,Wipro,0,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,1
+52,DELIVERY ASSURANCE MANAGER,Wipro,3,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+53,DEVELOPER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Gautam Buddha Nagar, Uttar Pradesh, India,0,0,0,0,0,1,0,0,0,0,1,0
+54,SCRUM MASTER,LTIMindtree,5,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,0
+55,TEST ENGINEER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+56,DEVOPS ENGINEER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,1
+57,PROJECT MANAGER,Wipro,52,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,1,0
+58,ADMINISTRATOR,Wipro,57,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,0
+59,SCRUM MASTER,LTIMindtree,4,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,0
+60,ORACLE EBS APPS TECHNICAL CONSULTANT,LTIMindtree,1,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,1,0,0,0,0,1
+61,WORKDAY CONSULTANT,LTIMindtree,7,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+62,WORKDAY CONSULTANT,LTIMindtree,8,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+63,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,50,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+64,ORACLE FUSION HCM TECHNICAL ANALYST,LTIMindtree,11,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,1,0,0,0,0,0
+65,PRODUCT MARKETING MANAGER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+66,PRE SALES CONSULTANT,Wipro,141,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+67,WORKDAY CONSULTANT,LTIMindtree,21,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+68,JAVA DEVELOPER,LTIMindtree,5,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+69,CYBER SECURITY ANALYST,Wipro,95,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+70,WORKDAY CONSULTANT,LTIMindtree,12,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+71,DELIVERY MANAGER,Wipro,153,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+72,MANAGER   PROGRAM AND PROJECT MANAGEMENT,LTIMindtree,14,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+73,ORACLE EBS APPS TECHNICAL CONSULTANT,LTIMindtree,10,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,1,0,0,0,0,1
+74,PL PM (SCRUM MASTER),LTIMindtree,56,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,0,0
+75,BUSINESS ANALYST,LTIMindtree,1,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+76,ASSOCIATE BUSINESS CONSULTANT,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+77,TECHNICAL LEAD,Wipro,25,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mysore, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,1
+78,WORKDAY CONSULTANT,LTIMindtree,3,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+79,WORKDAY CONSULTANT,LTIMindtree,8,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,1,0
+80,DELIVERY MANAGER,IDESLABS PRIVATE LIMITED,42,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+81,MIS EXECUTIVE,ACURA SOLUTIONS LTD,57,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Ahmedabad, Gujarat, India,0,0,0,0,0,1,0,0,0,0,0,0
+82,LEAD ADMINISTRATOR,Wipro,8,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,0
+83,JR SOFTWARE ENGINEER,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+84,MIS EXECUTIVE,ACURA SOLUTIONS LTD,53,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,0,0
+85,OBIEE DEVELOPER,LTIMindtree,5,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,1,0
+86,OBIEE DEVELOPER,LTIMindtree,4,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+87,PEOPLESOFT FINANCE TECHNICALCONSULTANT,LTIMindtree,10,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+88,TEST ENGINEER,IDESLABS PRIVATE LIMITED,26,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,0,0
+89,REACT DEVELOPER,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,0
+90,APEX DEVELOPER,LTIMindtree,12,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,1,0,0,0,1,1
+91,BUSINESS ANALYST  SME BROKER INSURANCE,LTIMindtree,77,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+92,CYBER SECURITY ANALYST,Wipro,17,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+93,JAVA DEVELOPER,LTIMindtree,2,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,1,0,0,0,1,0
+94,PROGRAM MANAGER (PM),Wipro,17,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+95,ORACLE EBS APPS TECHNICAL CONSULTANT,LTIMindtree,17,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Gurgaon, Haryana, India,0,0,0,0,0,1,1,0,0,0,0,1
+96,CYBER SECURITY ANALYST,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+97,MIS EXECUTIVE,ACURA SOLUTIONS LTD,39,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Ahmedabad, Gujarat, India,0,0,0,0,0,1,0,0,0,0,1,0
+98,ADMINISTRATOR,Wipro,50,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Coimbatore, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+99,PL PM (SCRUM MASTER),LTIMindtree,22,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,0,0
+100,JAVA DEVELOPER,IDESLABS PRIVATE LIMITED,70,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+101,ASSOCIATE BUSINESS CONSULTANT,IDESLABS PRIVATE LIMITED,95,80865,Contrato , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+102,WAS ADMIN,IDESLABS PRIVATE LIMITED,9,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+103,WORKDAY CONSULTANT,LTIMindtree,13,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,1,0
+104,PROJECT LEAD,Wipro,9,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+105,BACKEND ENGINEER,IDESLABS PRIVATE LIMITED,76,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bhubaneswar, Odisha, India,0,0,0,0,0,0,1,0,0,0,1,1
+106,SOLUTION ANALYST,IDESLABS PRIVATE LIMITED,13,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+107,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,43,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+108,JAVA BACK END DEVELOPER,LTIMindtree,25,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+109,BASIS,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bhubaneshwar, Odisha, India,0,0,0,0,0,0,1,0,0,0,1,0
+110,SR TEST ENGINEER,IDESLABS PRIVATE LIMITED,49,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+111,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,51,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+112,OBIEE DEVELOPER,LTIMindtree,6,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+113,DEVELOPER,Wipro,156,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,0,1
+114,UI UX DESIGNER,LTIMindtree,31,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,0,0
+115,MM CONSULTANT,IDESLABS PRIVATE LIMITED,92,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+116,MANAGER – LEARNING AND DEVELOPMENT (I&D),Wipro,145,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+117,SQL SERVER DBA,IDESLABS PRIVATE LIMITED,35,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,1,0,0,0,1,0
+118,INFRA CLOUD ARCHITECT,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+119,WINDOWS ADMIN,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+120,TALENT ACQUISITION MANAGER,ACURA SOLUTIONS LTD,29,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+121,ASSOCIATE BUSINESS CONSULTANT,IDESLABS PRIVATE LIMITED,75,80865,Contrato , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+122,PHP DEVELOPER,LTIMindtree,36,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,1,1,0,0,0,1
+123,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,47,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+124,CYBER SECURITY ANALYST,Wipro,34,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+125,PROJECT LEAD,Wipro,41,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+126,TEAM LEAD,IDESLABS PRIVATE LIMITED,33,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+127,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,29,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+128,NETWORK AUTOMATION,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Indore, Madhya Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+129,CYBER SECURITY ANALYST,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Gautam Buddha Nagar, Uttar Pradesh, India,0,0,0,0,0,1,0,0,0,0,1,0
+130,ORACLE FUSION HCM TECHNICAL ANALYST,LTIMindtree,6,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,0,0
+131,CHANGE MANAGER,IDESLABS PRIVATE LIMITED,51,80865,Contrato , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+132,SQL SERVER DBA,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+133,PROJECT MANAGER,ACURA SOLUTIONS LTD,3,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+134,ORACLE FUSION HCM TECHNICAL ANALYST,LTIMindtree,7,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,1,0,0,0,0,0
+135,ORACLE FUSION HCM TECHNICAL ANALYST,LTIMindtree,5,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,0,0
+136,CYBER SECURITY ANALYST,Wipro,24,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,0
+137,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,27,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+138,PROJECT MANAGER WITH ABAP,IDESLABS PRIVATE LIMITED,2,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+139,DOT NET DEVELOPER,IDESLABS PRIVATE LIMITED,12,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,1,0,0,0,1,0
+140,CONSULTANT TECHNOLOGY & IMPLEMENTATION,Wipro,11,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,0
+141,JAVA FULL STACK DEVELOPER,LTIMindtree,42,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,1,0,0,0,1,1
+142,JAVA BACK END DEVELOPER,LTIMindtree,14,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+143,CONFIGURATOR,Wipro,23,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+144,APEX DEVELOPER,LTIMindtree,19,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,1,0,0,0,1,1
+145,TEAM LEAD,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Allahabad, Uttar Pradesh, India,0,0,0,0,0,0,1,0,0,0,1,1
+146,SOFTWARE ENGINEER,IDESLABS PRIVATE LIMITED,4,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+147,ABAP,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+148,QE PO,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+149,LEAD ADMINISTRATOR,Wipro,7,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Coimbatore, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+150,TEST LEAD,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+151,BUSINESS ANALYST P&C INSURANCE BILLING,LTIMindtree,3,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,0,1
+152,SOLACE ADMIN,LTIMindtree,3,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,0,0
+153,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,19,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+154,AGILE PROJECT MANAGEMENT REQUIRED FOR DELHI,LTIMindtree,23,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,0
+155,WORKDAY CONSULTANT,LTIMindtree,14,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+156,WORKDAY CONSULTANT,LTIMindtree,15,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Gurgaon, Haryana, India,0,0,0,0,0,0,0,0,0,0,1,0
+157,TECHNICAL DIRECTOR,LTIMindtree,2,270267,Tempo integral , Diretoria,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,1,0,1,0,1,0
+158,TEAM LEAD,IDESLABS PRIVATE LIMITED,32,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+159,MANAGER – LEARNING AND DEVELOPMENT (I&D),Wipro,127,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+160,LEAD ADMINISTRATOR,Wipro,21,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+161,PROJECT LEAD,Wipro,152,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+162,MM WM,IDESLABS PRIVATE LIMITED,6,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+163,SHAREPOINT DEVELOPER,LTIMindtree,3,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+164,SHAREPOINT DEVELOPER,LTIMindtree,5,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,0
+165,SOLACE ADMIN,LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,0,0
+166,DEVELOPER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Kochi, Kerala, India,0,0,0,0,0,1,0,0,0,0,1,0
+167,BUSINESS ANALYST,IDESLABS PRIVATE LIMITED,39,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Indore, Madhya Pradesh, India,0,0,0,0,0,1,0,0,0,0,1,0
+168,FRONTEND DEVELOPER,IDESLABS PRIVATE LIMITED,19,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+169,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,53,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+170,SCRUM MASTER,IDESLABS PRIVATE LIMITED,5,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+171,SQL SERVER DBA,IDESLABS PRIVATE LIMITED,2,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,1,0
+172,CYBER SECURITY ANALYST,Wipro,112,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Kochi, Kerala, India,0,0,0,0,0,1,0,0,0,0,1,0
+173,TEAM LEAD,IDESLABS PRIVATE LIMITED,20,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+174,DEVELOPER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+175,PL PM (SCRUM MASTER),LTIMindtree,36,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,0,0
+176,ASSOCIATE BUSINESS CONSULTANT,IDESLABS PRIVATE LIMITED,46,80865,Contrato , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+177,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,0,0
+178,ABAP SR SOFTWARE ENGINEER VIZAG,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Visakhapatnam, Andhra Pradesh, India,0,0,0,0,0,0,1,0,0,0,1,0
+179,ASSOCIATE BUSINESS CONSULTANT,IDESLABS PRIVATE LIMITED,7,80865,Contrato , Junior,51-200 colaboradores , Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+180,TEAM LEAD,IDESLABS PRIVATE LIMITED,26,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+181,JAVA DEVELOPERS,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,1
+182,SECURITY ANALYST,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+183,ENGINEER,IDESLABS PRIVATE LIMITED,39,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+184,ORACLE EBS APPS TECHNICAL CONSULTANT,LTIMindtree,7,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,1,1,0,0,0,0,1
+185,QA ENGINEER,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,1,0,0,0,1,0
+186,SOLACE ADMIN,LTIMindtree,7,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,0,0
+187,SOLACE ADMIN,LTIMindtree,5,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,0,0
+188,IT RECRUITER,IDESLABS PRIVATE LIMITED,8,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+189,SOFTWARE ENGINEER,IDESLABS PRIVATE LIMITED,64,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+190,BUSINESS ANALYST DUCKCREEK CLAIMS,LTIMindtree,3,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+191,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,15,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+192,BUSINESS ANALYST  SME BROKER INSURANCE,LTIMindtree,17,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+193,SR TEST ENGINEER,IDESLABS PRIVATE LIMITED,82,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+194,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,43,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+195,FUSION HCM TECHNICAL,LTIMindtree,3,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+196,ENGINEER,IDESLABS PRIVATE LIMITED,21,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+197,TEST ENGINEER,IDESLABS PRIVATE LIMITED,27,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+198,SR ASSOCIATE  UX,IDESLABS PRIVATE LIMITED,11,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+199,SERVICE DELIVERY LEAD,Wipro,0,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Coimbatore, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+200,WMS FUNCTIONAL,LTIMindtree,4,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+201,QA TESTER,IDESLABS PRIVATE LIMITED,4,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+202,CONFIGURATOR,Wipro,92,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,0
+203,ASSOCIATE CONSULTANT (HOSPITAL MANAGEMENT SYSTEM),ACURA SOLUTIONS LTD,4,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+204,TECHNICAL LEAD,UST,22,783349,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Thiruvananthapuram, Kerala, India,0,0,0,0,0,0,0,0,0,0,0,0
+205,PROJECT MANAGER,LTIMindtree,2,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Gurgaon, Haryana, India,0,0,0,0,0,0,0,0,0,0,0,0
+206,ARTIFICIAI INTELLIGENCE LEAD,Wipro,6,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,1
+207,SOFTWARE ENGINEER,IDESLABS PRIVATE LIMITED,74,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+208,BW  TECH LEAD,IDESLABS PRIVATE LIMITED,9,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+209,TEST ENGINEER,IDESLABS PRIVATE LIMITED,46,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+210,WMS FUNCTIONAL CONSULTANT,LTIMindtree,3,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+211,CLOUD ARCHITECT,LTIMindtree,8,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+212,APPLICATION ARCHITECT,Wipro,2,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,1
+213,DEVELOPER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,1,0,0,0,1,0
+214,AWS  CLOUD DEVELOPER,Wipro,12,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,0
+215,CORE JAVA,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,1,1
+216,EBS FINANCE FUNCTIONAL,LTIMindtree,12,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+217,EBS FINANCE FUNCTIONAL,LTIMindtree,2,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+218,SR ENGINEER,IDESLABS PRIVATE LIMITED,18,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+219,QA,IDESLABS PRIVATE LIMITED,2,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,1,0,0,0,1,0
+220,ANGULAR DEVELOPER,IDESLABS PRIVATE LIMITED,11,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Saket, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,1
+221,PROJECT MANAGER,LTIMindtree,16,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+222,CLOUD ARCHITECT,LTIMindtree,3,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+223,MIDDLEWARE ADMINISTRATOR,Wipro,64,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,0,0
+224,JAVA DEVELOPER,IDESLABS PRIVATE LIMITED,22,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,1,0
+225,WEB DEVELOPER,IDESLABS PRIVATE LIMITED,35,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,1
+226,DATA SPECIALIST,LTIMindtree,2,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+227,PYTHON DEVELOPER,LTIMindtree,3,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,1,0,0,0,0,1,1,0,0,0,1,0
+228,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,0
+229,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,1,0,0,0,0,1,0
+230,AWS DEVOPS ENGINEER,IDESLABS PRIVATE LIMITED,5,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+231,TEAM LEAD,IDESLABS PRIVATE LIMITED,39,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+232,BRANCH RELATIONSHIP MANAGER,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,0,0
+233,JAVA DEVELOPERS,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,1,0
+234,OTM FUNCTIONAL CONSULTANT,LTIMindtree,8,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+235,ABAP(HR),IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+236,CUSTOMER SERVICE EXECUTIVE  RETAIL ASSETS  NOIDA,ACURA SOLUTIONS LTD,1,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,0
+237,SOFTWARE QA ENGINEER 2    QA ENGINEER   MANUAL TEST LEAD   AUTOMATION TEST,ACURA SOLUTIONS LTD,26,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Chennai, Tamil Nadu, India,0,0,0,0,0,0,1,1,0,1,1,0
+238,SOFTWARE QA ENGINEER 2    QA ENGINEER   MANUAL TEST LEAD   AUTOMATION TEST,ACURA SOLUTIONS LTD,31,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,0,0,0,1,1,0,1,1,0
+239,DEVELOPER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,0,0
+240,SYSTEM ENGINEER,Wipro,126,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+241,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+242,TEAM LEAD,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Allahabad, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,0,0
+243,OTM PROJECT LEAD,LTIMindtree,4,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,1
+244,JAVA FULL STACK WITH ANGULAR AND SPRINGBOOT,LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,1,0,0,0,1,0
+245,ASSOCIATE TEAM LEAD,IDESLABS PRIVATE LIMITED,23,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+246,NET LEAD,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,1,0
+247,FRONTEND DEVELOPER,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Ahmedabad, Gujarat, India,0,0,0,0,0,0,1,0,0,0,0,0
+248,MAINFRAME DEVELOPER,LTIMindtree,15,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+249,SR SECURITY ANALYST,IDESLABS PRIVATE LIMITED,52,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,1
+250,NET FULL STACK DEVELOPER,IDESLABS PRIVATE LIMITED,7,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bhubaneshwar, Odisha, India,0,0,0,0,0,0,1,0,0,0,1,1
+251,SR ENGINEER,IDESLABS PRIVATE LIMITED,7,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+252,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,23,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+253,CONSULTANT   INTERNAL AUDIT,ACURA SOLUTIONS LTD,5,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+254,CUSTOMER SERVICE EXECUTIVE  RETAIL ASSETS  NOIDA,ACURA SOLUTIONS LTD,4,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,0,0,0,0,0,1,0,0,0,0,1,0
+255,SHAREPOINT DEVELOPER,LTIMindtree,2,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,0
+256,MSBI DEVELOPER,ACURA SOLUTIONS LTD,5,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,0,0,0,1,0,0,0,0,0
+257,INFORMATICA DEVELOPER,IDESLABS PRIVATE LIMITED,46,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,1,0,0,0,1,0
+258,NODEJS DEVELOPER (FOR IT CONSULTING),ACURA SOLUTIONS LTD,2,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+259,TELLER AUTHORIZER,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Mangaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+260,SHAREPOINT DEVELOPER,LTIMindtree,4,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+261,DELIVERY HEAD,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Diretoria,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+262,SOFTWARE ENGINEER,IDESLABS PRIVATE LIMITED,88,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+263,LEAD PMO,IDESLABS PRIVATE LIMITED,156,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+264,CACTUS TALENT COMMUNITY,Cactus Communications,33,531551,Tempo integral , Junior,"1,001-5,000 colaboradores ", Tecnologia da informação,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+265,LEAD ADMINISTRATOR,Wipro,22,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Kochi, Kerala, India,0,0,0,0,0,1,0,0,0,0,1,0
+266,SHAREPOINT DEVELOPER,LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,1
+267,SHAREPOINT DEVELOPER,LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,1
+268,ASSOCIATE   CONSULTANT KYC CDD,ACURA SOLUTIONS LTD,45,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Gurgaon, Haryana, India,0,0,0,0,0,0,0,0,0,0,1,1
+269,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,31,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+270,BASIS,IDESLABS PRIVATE LIMITED,22,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+271,JOB| MAINFRAME DEVELOPERS | 3 5YRS |,LTIMindtree,8,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+272,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,78,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,1,1
+273,BRANCH RELATIONSHIP MANAGER,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Vishakhapatnam, Andhra Pradesh, India,0,0,0,0,0,0,0,0,0,0,0,0
+274,BRANCH RELATIONSHIP MANAGER,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,0,0
+275,JAVA FULL STACK DEVELOPER,LTIMindtree,37,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,1,0,0,0,1,1
+276,INTERNAL AUDIT   CONSULTANT,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Thane, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+277,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,33,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+278,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,5,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+279,UI UX DEVELOPER,IDESLABS PRIVATE LIMITED,12,80865,Contrato , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,1
+280,DEVOPS ENGINEER,IDESLABS PRIVATE LIMITED,61,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+281,CYBER SECURITY ARCHITECT,Wipro,16,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+282,SOFTWARE ENGINEER,IDESLABS PRIVATE LIMITED,52,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+283,MM S4 HANA CONSULTANT,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+284,PROJECT MANAGER,LTIMindtree,1,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+285,MM PP,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+286,PROJECT MANAGER,LTIMindtree,1,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,0,0
+287,PRESALES MANAGER_F&A,Wipro,13,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,1
+288,RECRUITMENT LEAD,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+289,SECURITY,ACURA SOLUTIONS LTD,18,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,0,1
+290,SECURITY,ACURA SOLUTIONS LTD,25,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,0,1
+291,TEAM LEAD,IDESLABS PRIVATE LIMITED,9,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+292,CYBER SECURITY ARCHITECT,Wipro,10,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+293,JAVA FRONT END DEVELOPER,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+294,ANALYST CONSULTANT_PRIVATE EQUITY,ACURA SOLUTIONS LTD,3,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+295,WMS FUNCTIONAL,LTIMindtree,2,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+296,PI PO,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+297,CYBER SECURITY ANALYST,Wipro,25,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Kochi, Kerala, India,0,0,0,0,0,1,0,0,0,0,1,0
+298,CONSULTANT TECHNOLOGY & IMPLEMENTATION,Wipro,29,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+299,TEAM LEAD,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Allahabad, Uttar Pradesh, India,0,0,0,0,0,0,1,0,0,0,1,1
+300,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+301,DOT NET DEVELOPER,IDESLABS PRIVATE LIMITED,7,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+302,MERN DEVELOPER (MONGODB EXPRESSJSREACTJSNODEJS),ACURA SOLUTIONS LTD,0,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Thane, Maharashtra, India,0,0,0,0,0,0,0,0,0,1,1,0
+303,DEPUTY BRANCH MANAGER ( LEADING PVT BANK),ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,1,0
+304,PYTHON DEVELOPER,LTIMindtree,10,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,1,0,0,0,0,1,1,0,0,0,1,0
+305,BUSINESS CONSULTANT,IDESLABS PRIVATE LIMITED,49,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+306,CUSTOMER DELIVERY HEAD,IDESLABS PRIVATE LIMITED,36,80865,Contrato , Diretoria,51-200 colaboradores , Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,1,0
+307,CLOUD ARCHITECT,LTIMindtree,13,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+308,CYBER SECURITY ARCHITECT,Wipro,7,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+309,DATA SPECIALIST,LTIMindtree,4,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+310,TEAM LEAD,IDESLABS PRIVATE LIMITED,27,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+311,ASSOCIATE TEAM LEAD,IDESLABS PRIVATE LIMITED,16,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+312,ASSOCIATE SECURITY CONSULTANT,IDESLABS PRIVATE LIMITED,4,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+313,FUSION HCM TECHNICAL CONSULTANT,LTIMindtree,7,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,0,0
+314,PYTHON ARCHITECT PYTHON TECH LEAD PYTHON TECHNICAL LEAD,LTIMindtree,6,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,1,1,0,0,0,1,0,0,0,0,0
+315,LEAD ADMINISTRATOR,Wipro,22,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+316,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Gurgaon, Haryana, India,0,0,0,0,0,0,0,0,0,0,1,0
+317,INFRASTRUCTURE ARCHITECT,Wipro,21,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Coimbatore, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+318,HYPERION ESSBASE AND PLANNING,LTIMindtree,1,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+319,TEAM LEAD,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,0,0
+320,ORACLE EBS APPS TECHNICAL CONSULTANT,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,1,0,0,0,0,1
+321,JAVA FULL STACK DEVELOPER,LTIMindtree,34,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,1,0,0,0,1,1
+322,JAVA FULL STACK DEVELOPER,LTIMindtree,34,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,1,0,0,0,1,1
+323,EBS FINANCE FUNCTIONAL,LTIMindtree,10,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+324,EBS FINANCE FUNCTIONAL,LTIMindtree,11,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+325,JDE TECHNICAL,LTIMindtree,2,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+326,JDE TECHNICAL,LTIMindtree,1,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+327,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+328,TEAM LEAD,IDESLABS PRIVATE LIMITED,6,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Allahabad, Uttar Pradesh, India,0,0,0,0,0,1,0,0,0,0,1,1
+329,ABAP ODATA,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+330,ORACLE APPS TECHNICAL OAF,LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,1,0,0,0,1,0
+331,HCM HR,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+332,WMS LEAD CONSULTANT,LTIMindtree,9,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+333,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Allahabad, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,0,0
+334,BRANCH RELATIONSHIP MANAGER,ACURA SOLUTIONS LTD,1,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mysore, Karnataka, India,0,0,0,0,0,0,0,0,0,0,0,0
+335,ANALYST ASSOCIATE CONSULTANT (PRIMARY MARKET RESEARCH),ACURA SOLUTIONS LTD,16,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,0,0
+336,BASIS MODULE LEAD,IDESLABS PRIVATE LIMITED,5,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Visakhapatnam, Andhra Pradesh, India,0,0,0,0,0,0,1,0,0,0,1,0
+337,MAINFRAME DEVELOPER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,1,0,0,0,1,0
+338,SYSTEM ENGINEER,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,1,0,0,0,0,1,0
+339,MANAGER REGIONAL ACCOUNT SERVICE,Vodafone Idea Limited,115,235120,Tempo integral , Pleno,"10,001+ colaboradores ", Telecomunicações,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+340,DOT NET DEVELOPER   SR DEVELOPER,IDESLABS PRIVATE LIMITED,2,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+341,DEPUTY BRANCH MANAGER ( LEADING PVT BANK),ACURA SOLUTIONS LTD,1,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+342,ANALYST ASSOCIATE CONSULTANT (PRIMARY MARKET RESEARCH),ACURA SOLUTIONS LTD,19,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Gurgaon, Haryana, India,0,0,0,0,0,0,0,0,0,0,0,0
+343,CITRIX ADMIN ADMINISTRATOR,Wipro,50,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+344,TEAM LEAD,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,1,0,0,0,0,0,0,0,0,0,0,1
+345,ASSITANCE MANAGER   PURCHASE ( JEJURI   PUNE LOCATION),ACURA SOLUTIONS LTD,2,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,0,0
+346,E COMMERCE MANAGER   AGRITECH COMY,ACURA SOLUTIONS LTD,12,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+347,ASSOCIATE SOLUTION ARCHITECT,IDESLABS PRIVATE LIMITED,5,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+348,SUPPORT ANALYST,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+349,CLOUD ARCHITECT,LTIMindtree,12,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,1,0,0,0,0,1,0
+350,TECHNICAL LEAD,Wipro,142,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Coimbatore, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,1
+351,PROJECT LEAD,IDESLABS PRIVATE LIMITED,53,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+352,JAVA FULL STACK WITH ANGULAR AND SPRINGBOOT,LTIMindtree,2,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,1,0,0,0,1,0
+353,GCP PROFESSIONALS,LTIMindtree,4,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,1,0,0,0,0,0,1,0,0,0,0,0
+354,GCP PROFESSIONALS,LTIMindtree,2,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,1,0,0,0,0,0,1,0,0,0,0,0
+355,ABAP ON HANA,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+356,ORACLE SCM TECHNICAL,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+357,AGM   ZONAL TECHNICAL MANAGER,Vodafone Idea Limited,35,235120,Tempo integral , Pleno,"10,001+ colaboradores ", Telecomunicações,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+358,ORACLE APPS TECHNICAL OAF,LTIMindtree,3,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,1,0,0,0,1,0
+359,MAINFRAME DEVELOPER,LTIMindtree,5,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,1,0
+360,DIGITAL MARKETING EXECUTIVE,ACURA SOLUTIONS LTD,11,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+361,DEVELOPER,Wipro,85,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Kochi, Kerala, India,0,0,0,0,0,1,0,0,0,0,1,0
+362,ASSOCIATE SECURITY CONSULTANT,IDESLABS PRIVATE LIMITED,4,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+363,BDM BUSINESS LOAN IN A LEADING MNC BANK,ACURA SOLUTIONS LTD,1,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Jaipur, Rajasthan, India,0,0,0,0,0,0,0,0,0,0,1,0
+364,JAVA FULL STACK WITH ANGULAR AND SPRINGBOOT,LTIMindtree,1,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,1,0,0,0,1,0
+365,TEAM LEAD,IDESLABS PRIVATE LIMITED,16,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,1,0,0,0,1,0
+366,TASC RM ( LEADING PVT BANK),ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+367,CYBER SECURITY ANALYST,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+368,ORACLE EPBCS (ENTERPRISE PLANNING AND BUDGETING CLOUD SERVICE),LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+369,ORACLE EPBCS (ENTERPRISE PLANNING AND BUDGETING CLOUD SERVICE),LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Gurgaon, Haryana, India,0,0,0,0,0,0,0,0,0,0,0,0
+370,FICO,IDESLABS PRIVATE LIMITED,31,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+371,AWS DEVOPS,IDESLABS PRIVATE LIMITED,2,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+372,TEAM LEAD,IDESLABS PRIVATE LIMITED,35,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+373,SERVICENOW DEVELOPERS,LTIMindtree,3,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,0,1
+374,SOLUTION ARCHITECT,IDESLABS PRIVATE LIMITED,7,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+375,ORACLE IAM WITH JAVA DEVELOPER,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+376,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,1,0
+377,BUSINESS ANALYST,IDESLABS PRIVATE LIMITED,118,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+378,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Allahabad, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+379,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Allahabad, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+380,TEAM LEAD,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Allahabad, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+381,POWER BI DEVELOPER,IDESLABS PRIVATE LIMITED,4,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,1,0,0,0,0,0,0,1,0
+382,TEAM LEAD,IDESLABS PRIVATE LIMITED,9,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,1,0
+383,JAVA BACKEND,IDESLABS PRIVATE LIMITED,5,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+384,ORACLE FINANCE TECHNICAL CONSULTANT,IDESLABS PRIVATE LIMITED,12,80865,Contrato , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,1,0,0,0,1,0
+385,AI ML   DATA SCIENTIST,Wipro,0,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,1,0,0,0,1,1,0,0,0,0,1,1
+386,PHP DEVELOPER,IDESLABS PRIVATE LIMITED,10,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,1,0,0,0,1,1
+387,DATABASE ADMIN SR CNSLT,IDESLABS PRIVATE LIMITED,12,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,1,0
+388,HYPERION ESSBASE AND PLANNING,LTIMindtree,2,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+389,HYPERION ESSBASE AND PLANNING,LTIMindtree,2,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,1,0
+390,UI UX DEVELOPER,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Ahmedabad, Gujarat, India,0,0,0,0,0,0,0,0,0,0,0,0
+391,TELECALLER EXECUTIVE (FINTECH FIRM),ACURA SOLUTIONS LTD,1,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+392,TECH MANAGER,IDESLABS PRIVATE LIMITED,16,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+393,AWS ENGINEER,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+394,TEAM LEAD,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+395,PRE SALES CONSULTANT,Wipro,73,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+396,ABAP WORKFLOW   MODULE LEAD,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+397,SR ENGINEER,IDESLABS PRIVATE LIMITED,7,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+398,FULL STACK DEVELOPER – ANGULAR C#NET,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,1,0,0,0,1,1
+399,BASIS WITH SELENIUM,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+400,SR ENGINEER,IDESLABS PRIVATE LIMITED,15,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+401,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,33,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+402,PROJECT LEAD,IDESLABS PRIVATE LIMITED,25,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+403,BIG DATA DEVELOPER,Wipro,79,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+404,HYPERION ESSBASE AND PLANNING,LTIMindtree,3,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+405,BI (BW) LEAD,IDESLABS PRIVATE LIMITED,7,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+406,MM WITH RELEASE STRATERGY,IDESLABS PRIVATE LIMITED,112,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+407,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,2,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,1,0,0,1,1
+408,PRIMAVERA UNIFIER ARCHITECT,LTIMindtree,3,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,1,0,0,0,1,0
+409,SECURITY CONSULTANT,IDESLABS PRIVATE LIMITED,53,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+410,SOFTWARE TESTER,ACURA SOLUTIONS LTD,11,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Ahmedabad, Gujarat, India,0,0,0,0,0,1,0,0,0,0,0,0
+411,SHAREPOINT DEVELOPER,LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,1,0,0,1,0,0,0,1,0
+412,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Gurgaon, Haryana, India,0,0,0,0,0,1,0,0,0,0,1,0
+413,SOCIAL MEDIA MANAGER WITH INSURE TECH COMY,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+414,PROGRAM MANAGER,LTIMindtree,45,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,0,0,0,0,1,0
+415,JAVA BACK END DEVELOPER,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+416,BASIS CONSULTANT S4 HANA,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+417,QA ENGINEER,IDESLABS PRIVATE LIMITED,14,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+418,TELLER AUTHORIZER,ACURA SOLUTIONS LTD,2,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+419,TELLER AUTHORIZER,ACURA SOLUTIONS LTD,3,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Vishakhapatnam, Andhra Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+420,DEVOPS LEAD,Wipro,12,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,1
+421,DATA ANALYST (BUSINESS PROFESSIONAL INSTITUTE),ACURA SOLUTIONS LTD,16,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,1,0,0,0,1,1,1,0,0,0,0,0
+422,SOFTWARE ENGINEER,IDESLABS PRIVATE LIMITED,48,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+423,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,0,0
+424,BDM FOR A REPUTED MNC BANK,ACURA SOLUTIONS LTD,7,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+425,DIGITAL MARKETING,ACURA SOLUTIONS LTD,5,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+426,ASSOCIATE SOFTWARE ENGINEER,IDESLABS PRIVATE LIMITED,85,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Nagpur, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+427,TEAM LEAD,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Allahabad, Uttar Pradesh, India,1,0,0,0,0,0,0,0,0,0,0,0
+428,DATA ARCHITECT,IDESLABS PRIVATE LIMITED,6,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,1,0,0,0,1,0
+429,ABSIS ADMIN,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,1
+430,ASSOCIATE SOFTWARE ENGINEER   NET (FINTECH COMY),ACURA SOLUTIONS LTD,1,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,0,0,0,0,0,0,1,0,0,0,1,1
+431,TECH MANAGER,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+432,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,2,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,1,1,0,1,1
+433,TEST MANAGER,IDESLABS PRIVATE LIMITED,4,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+434,SHAREPOINT DEVELOPER,LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,1
+435,SHAREPOINT DEVELOPER,LTIMindtree,1,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,1
+436,TALEND DEVELOPER,LTIMindtree,11,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+437,FICO,IDESLABS PRIVATE LIMITED,4,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+438,ABAP + CUSTOMIZATION,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+439,ORACLE APPS TECHNICAL OAF,LTIMindtree,8,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,1,0,0,0,1,0
+440,TEAM LEAD,IDESLABS PRIVATE LIMITED,22,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+441,SERVICENOW DEVELOPERS,LTIMindtree,23,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,0,1
+442,NET CORE DEVELOPER,IDESLABS PRIVATE LIMITED,2,80865,Contrato , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,1
+443,ASSOCIATE SECURITY CONSULTANT,IDESLABS PRIVATE LIMITED,2,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+444,BDM BUSINESS LOAN IN A LEADING MNC BANK,ACURA SOLUTIONS LTD,4,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Lucknow, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+445,PYTHON ARCHITECT PYTHON TECH LEAD PYTHON TECHNICAL LEAD,LTIMindtree,6,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,1,1,1,0,0,0,1,0,0,0,0,0
+446,TECH MANAGER,IDESLABS PRIVATE LIMITED,39,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+447,ASSOCIATE   CONSULTANT COMPLIANCE WITH BIG 5 COMY,ACURA SOLUTIONS LTD,3,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Gurgaon, Haryana, India,0,0,0,0,0,0,0,0,0,0,0,0
+448,MAINFRAME DEVELOPER,LTIMindtree,5,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Gurgaon, Haryana, India,0,0,0,0,0,0,1,0,0,0,1,0
+449,ASSOCIATE CONSULTANT   DATA MIGRATION,ACURA SOLUTIONS LTD,8,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Hyderabad, Telangana, India,0,0,0,0,0,1,1,0,0,0,1,0
+450,OTM PROJECT LEAD,LTIMindtree,4,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,1
+451,COBOL400 DEVELOPER,LTIMindtree,9,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,0,0
+452,MANAGING CONSULTANT TECHNOLOGY & IMPLEMENTATION,Wipro,12,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+453,MM WITH API,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+454,ASSOCIATE SECURITY CONSULTANT,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,1,0,0,0,0,0,0,0,0,0,1,1
+455,DOMAIN ARCHITECT,Wipro,1,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,1
+456,DEPUTY BRANCH MANAGER ( LEADING PVT BANK),ACURA SOLUTIONS LTD,5,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+457,MAINFRAME DEVELOPER,IDESLABS PRIVATE LIMITED,38,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,1
+458,PROJECT MANAGER,LTIMindtree,7,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,1,0
+459,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+460,TECH MANAGER,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+461,PROJECT MANAGER  JAIPUR,IDESLABS PRIVATE LIMITED,25,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,1,0,0,0,0,1,0
+462,ORACLE APPS TECHNICAL OAF,LTIMindtree,7,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,1,1,0,0,0,1,0
+463,DELIVERY MANAGER,IDESLABS PRIVATE LIMITED,167,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+464,LEAD DBA,IDESLABS PRIVATE LIMITED,10,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,1,1,1,1,0
+465,ABAP OOPS,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+466,PROJECT MANAGER,LTIMindtree,8,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+467,ABAP DEVELOPER   MODULE LEAD,IDESLABS PRIVATE LIMITED,6,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Visakhapatnam, Andhra Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+468,SR  FUNCTIONAL TESTING   FINANCE,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+469,ORACLE EPBCS (ENTERPRISE PLANNING AND BUDGETING CLOUD SERVICE),LTIMindtree,3,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+470,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+471,ABAP FOR NTT DATA,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+472,ENGINEER,IDESLABS PRIVATE LIMITED,17,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,1,0
+473,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,10,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Gurgaon, Haryana, India,0,0,0,0,0,0,1,0,0,0,1,1
+474,DATA ANALYTICS ARCHITECT,Wipro,8,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+475,DOT NET DEVELOPER,IDESLABS PRIVATE LIMITED,6,80865,Contrato , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,1,1
+476,SR SECURITY ANALYST,IDESLABS PRIVATE LIMITED,4,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+477,TEAM LEAD,IDESLABS PRIVATE LIMITED,8,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+478,OFM ADMIN WITH SOA,IDESLABS PRIVATE LIMITED,7,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+479,AWS DEVELOPER,IDESLABS PRIVATE LIMITED,6,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+480,INTERNAL AUDIT   CONSULTANT,ACURA SOLUTIONS LTD,1,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Navi Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+481,INTERNAL AUDIT   CONSULTANT,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+482,INTERNAL AUDIT   CONSULTANT,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+483,PRIMAVERA UNIFIER ARCHITECT,LTIMindtree,1,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+484,TELLER AUTHORIZER,ACURA SOLUTIONS LTD,1,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Kochi, Kerala, India,0,0,0,0,0,0,0,0,0,0,1,0
+485,TELLER AUTHORIZER,ACURA SOLUTIONS LTD,2,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+486,ORACLE APPS TECHNICAL OAF,LTIMindtree,2,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,1,1,0,0,0,1,0
+487,OTM PROJECT LEAD,LTIMindtree,4,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,1,0,0,0,0,1,1
+488,MAINFRAME DEVELOPER,LTIMindtree,1,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,1,0,0,0,1,0
+489,MAINFRAME DEVELOPER,LTIMindtree,2,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,1,0,0,0,1,0
+490,POWER BI DEVELOPER,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,1,0,0,1,0,0,0,1,0
+491,TEAM LEAD,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Allahabad, Uttar Pradesh, India,0,0,0,0,0,1,0,0,0,0,1,1
+492,GTM OTM FUNCTIONAL CONSULTANT,LTIMindtree,4,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+493,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Visakhapatnam, Andhra Pradesh, India,0,0,0,0,0,1,0,0,0,0,0,1
+494,ABAP CDS DEVELOPER,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+495,JAVA SPRING BOOT DEVELOPER,IDESLABS PRIVATE LIMITED,7,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+496,AVP HOME LOANS,ACURA SOLUTIONS LTD,15,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+497,FRONT END DEVELOPERS,IDESLABS PRIVATE LIMITED,16,80865,Contrato , Junior,51-200 colaboradores , Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,1,1
+498,PROJECT LEAD,IDESLABS PRIVATE LIMITED,39,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+499,NETWORK LEAD,IDESLABS PRIVATE LIMITED,6,80865,Contrato , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+500,PRIMAVERA UNIFIER ARCHITECT,LTIMindtree,1,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+501,PLSQL DEVELOPMENT,LTIMindtree,19,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,1,0,0,0,1,1
+502,ASSOCIATE TECHNICAL ARCHITECT,IDESLABS PRIVATE LIMITED,6,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+503,SR SOFTWARE ENGINEER,IDESLABS PRIVATE LIMITED,18,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+504,FOR ASSOCIATE CONSULTANT   REPORTING WITH A MNC PHARMACEUTICAL FIRM,ACURA SOLUTIONS LTD,2,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,1,0,0,0,0,1,1,0,0,0,1,0
+505,MAINFRAME DEVELOPER,LTIMindtree,12,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+506,MAINFRAME DEVELOPER,LTIMindtree,16,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+507,TEAM LEAD,IDESLABS PRIVATE LIMITED,158,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+508,CONTENT WRITER (HINDI)   INSURANCE,ACURA SOLUTIONS LTD,16,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+509,BUSINESS ANALYST,LTIMindtree,6,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+510,PROGRAM MANAGER,IDESLABS PRIVATE LIMITED,12,80865,Contrato , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,1,0,0,0,1,1
+511,OBIEE DEVELOPER,LTIMindtree,8,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+512,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+513,FICO,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru North, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+514,EBS FINANCE FUNCTIONAL,LTIMindtree,5,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Gurgaon, Haryana, India,0,0,0,0,0,0,0,0,0,0,1,0
+515,TASC RM ( LEADING PVT BANK),ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Gurgaon, Haryana, India,0,0,0,0,0,0,0,0,0,0,1,0
+516,SECURITY CONSULTANT,IDESLABS PRIVATE LIMITED,4,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Delhi Cantonment, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+517,FICO,IDESLABS PRIVATE LIMITED,42,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+518,UI ANGULAR,IDESLABS PRIVATE LIMITED,13,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,1,0,1,0,1,1
+519,SCRUM MASTER,Wipro,112,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+520,PROJECT MANAGER,LTIMindtree,9,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+521,PROJECT MANAGER,LTIMindtree,10,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Gurgaon, Haryana, India,0,0,0,0,0,0,0,0,0,0,1,0
+522,RELATIONSHIP MANAGER   BUSINESS BANKING (MID CORPORATE),ACURA SOLUTIONS LTD,3,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+523,MAINFRAME DEVELOPER,LTIMindtree,3,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,1,0,0,0,1,0
+524,MANAGER   STATUTORY IT AUDITOR,ACURA SOLUTIONS LTD,4,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Delhi, Delhi, India,0,0,0,1,1,0,0,0,0,0,0,0
+525,MANAGER   STATUTORY IT AUDITOR,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Chennai, Tamil Nadu, India,0,0,0,1,1,0,0,0,0,0,0,0
+526,MERN DEVELOPER (MONGODB EXPRESSJSREACTJSNODEJS),ACURA SOLUTIONS LTD,4,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+527,MERN DEVELOPER (MONGODB EXPRESSJSREACTJSNODEJS),ACURA SOLUTIONS LTD,3,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+528,MERN DEVELOPER (MONGODB EXPRESSJSREACTJSNODEJS),ACURA SOLUTIONS LTD,11,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+529,MANAGER   STATUTORY IT AUDITOR,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Hyderabad, Telangana, India,0,0,0,1,1,0,0,0,0,0,0,0
+530,MANAGER   STATUTORY IT AUDITOR,ACURA SOLUTIONS LTD,3,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,0,0,0,1,1,0,0,0,0,0,0,0
+531,JAVA FULL STACK DEVELOPER,LTIMindtree,1,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,1,0,0,0,1,0
+532,PROJECT LEAD,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Allahabad, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+533,BUSINESS CONSULTANT,IDESLABS PRIVATE LIMITED,18,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+534,ASSOCIATE TECHNICAL ARCHITECT,IDESLABS PRIVATE LIMITED,5,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+535,ANALYST CONSULTANT_PRIVATE EQUITY,ACURA SOLUTIONS LTD,4,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+536,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+537,MAINFRAME DEVELOPER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Gurgaon, Haryana, India,0,0,0,0,0,0,1,0,0,0,1,0
+538,MAINFRAME DEVELOPER,LTIMindtree,3,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+539,FUSION FINANCE FUNCTIONAL CONSULTANT,LTIMindtree,7,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+540,SERVICENOW DEVELOPERS,LTIMindtree,25,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,1
+541,SOFTWARE QA ENGINEER 2    QA ENGINEER   MANUAL TEST LEAD   AUTOMATION TEST,ACURA SOLUTIONS LTD,33,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Coimbatore, Tamil Nadu, India,0,0,0,0,0,0,1,1,0,1,1,0
+542,BASIS   TECH MANAGER,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+543,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,13,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+544,PSFT FINANCE TECHNICAL CONSULTANT,LTIMindtree,5,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+545,SR SOFTWARE ENGINEER,IDESLABS PRIVATE LIMITED,14,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+546,ASSOCIATE BUSINESS CONSULTANT,IDESLABS PRIVATE LIMITED,40,80865,Contrato , Junior,51-200 colaboradores , Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,1,0
+547,MANAGER   STATUTORY IT AUDITOR,ACURA SOLUTIONS LTD,2,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Gurgaon, Haryana, India,0,0,0,1,1,0,0,0,0,0,0,0
+548,JDE TECHNICAL,LTIMindtree,2,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+549,FLEXI BANKER,ACURA SOLUTIONS LTD,5,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+550,CLOUD ARCHITECT,LTIMindtree,7,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+551,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,15,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+552,ASSOCIATE TEAM LEAD,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Allahabad, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+553,DEPUTY BRANCH MANAGER ( LEADING PVT BANK),ACURA SOLUTIONS LTD,1,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Nilanga, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+554,PYTHON ARCHITECT PYTHON TECH LEAD PYTHON TECHNICAL LEAD,LTIMindtree,6,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,1,1,1,0,0,0,1,0,0,0,0,0
+555,LOOKER BI DEVELOPER,ACURA SOLUTIONS LTD,8,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,1,0,0,0,0,0,1,0,0,0,0,1
+556,ASSOCIATE PRINCIPAL   STRATEGY CONSULTING  (PHARMACEUTICAL MNC),ACURA SOLUTIONS LTD,3,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Gurgaon, Haryana, India,0,0,0,0,0,0,0,0,0,0,1,0
+557,ASSOCIATE PRINCIPAL   STRATEGY CONSULTING  (PHARMACEUTICAL MNC),ACURA SOLUTIONS LTD,7,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+558,HCM LEAD CONSULTANT,IDESLABS PRIVATE LIMITED,15,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+559,BACKUP ADMIN   MUMBAI LOCATION,IDESLABS PRIVATE LIMITED,6,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+560,LEAD  DIGITAL BUSINESS PROCESS RE ENGINEERING,ACURA SOLUTIONS LTD,1,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+561,JDE TECHNICAL,LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+562,BRANCH RELATIONSHIP MANAGER,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+563,LTI  FOR CENTRAL FINANCE,LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+564,SECURITY CONSULTANT,IDESLABS PRIVATE LIMITED,23,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+565,ORACLE APPS TECHNICAL OAF,LTIMindtree,6,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,1,0,0,0,1,0
+566,UI UX DEVELOPER   MUMBAI,ACURA SOLUTIONS LTD,3,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,1
+567,FICO,IDESLABS PRIVATE LIMITED,37,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+568,FOR BRANCH RELATIONSHIP MANAGER,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+569,FOR BRANCH RELATIONSHIP MANAGER,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+570,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,10,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+571,AGM PRODUCT MANAGEMENT,Vodafone Idea Limited,82,235120,Tempo integral , Pleno,"10,001+ colaboradores ", Telecomunicações,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+572,FUSION FINANCE ARCHITECT,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+573,LEAD DEVELOPER,Wipro,2,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+574,GROUP MANAGER OPERATIONS,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+575,KRONOS CUSTOM REPORTS,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+576,ORACLE FUSION CRM CONSULTANT,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+577,TESTING,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+578,JAVA SPRING BOOT DEVELOPER,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,1
+579,LOOKER BI DEVELOPER,ACURA SOLUTIONS LTD,7,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,1,0,0,0,0,0,1,0,0,0,0,1
+580,JDE FINANCE,LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,1,0,0,0,0,1,0
+581,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,12,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+582,ASSOCIATE SOFTWARE ENGINEER  REACT JS WITH A LEADING FINTECH COMY,ACURA SOLUTIONS LTD,11,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,0,0,0,0,0,1,1,1,0,1,1,1
+583,JAVA FULLSTACK DEVELOPER,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+584,TECH MANAGER,IDESLABS PRIVATE LIMITED,5,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+585,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,1,1,0,1,1
+586,PEGA CSSA SPECIALIST,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Gurgaon, Haryana, India,0,0,0,0,0,0,1,0,0,0,0,1
+587,PEGA CSSA SPECIALIST,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,1,0,0,0,0,1
+588,HUMAN RESOURCE RECRUITER (HR),ACURA SOLUTIONS LTD,4,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+589,MERN DEVELOPER (MONGODB EXPRESSJSREACTJSNODEJS),ACURA SOLUTIONS LTD,6,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+590,MERN DEVELOPER (MONGODB EXPRESSJSREACTJSNODEJS),ACURA SOLUTIONS LTD,6,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Kochi, Kerala, India,0,0,0,0,0,0,0,0,0,0,1,0
+591,TECH LEAD,IDESLABS PRIVATE LIMITED,25,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+592,SOFTWARE DEVELOPMENT ANALYST,IDESLABS PRIVATE LIMITED,10,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+593,BIOINFORMATICS QA,IDESLABS PRIVATE LIMITED,25,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+594,DATA MODELER,LTIMindtree,5,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+595,DOT NET DEVELOPER   SR DEVELOPER,IDESLABS PRIVATE LIMITED,4,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,1,0,0,1,1
+596,FUSION HCM TECHNICAL,LTIMindtree,1,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,1,0,0,0,0,0,0
+597,PROJECT MANAGER,IDESLABS PRIVATE LIMITED,33,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,1
+598,TECH MANAGER,IDESLABS PRIVATE LIMITED,7,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,0
+599,SR SOFTWARE ENGINEER,IDESLABS PRIVATE LIMITED,1,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,1,0,0,0,1,0
+600,TECH MANAGER,IDESLABS PRIVATE LIMITED,2,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+601,FOR ASSOCIATE CONSULTANT  DATA MIGRATION WITH A MNC PHARMACEUTICAL FIRM,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Hyderabad, Telangana, India,1,0,0,0,0,1,1,0,0,0,1,0
+602,ASSOCIATE TECH SPECIALIST,IDESLABS PRIVATE LIMITED,40,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+603,PEGA DEVELOPER,IDESLABS PRIVATE LIMITED,2,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,1
+604,MANAGER   STATUTORY IT AUDITOR,ACURA SOLUTIONS LTD,2,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,1,1,0,0,0,0,0,0,0
+605,PROJECT MANAGER,LTIMindtree,4,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+606,PROJECT LEAD,IDESLABS PRIVATE LIMITED,17,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+607,MDG WITH ABAP,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+608,PEGA CSSA SPECIALIST,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Delhi, Delhi, India,0,0,0,0,0,0,1,0,0,0,0,1
+609,BRANCH MANAGER,ACURA SOLUTIONS LTD,1,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+610,PLSQL DEVELOPMENT,LTIMindtree,33,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,1
+611,MANAGER STRATEGIC PLANNING,ACURA SOLUTIONS LTD,3,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+612,JDE TECHNICAL,LTIMindtree,1,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+613,ASSOCIATE TECHNICAL ARCHITECT,IDESLABS PRIVATE LIMITED,4,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+614,CRM CUSTOMER SERVICE,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+615,ASSISTANT MANAGER   CYBER ITGC WITH BIG 5 COMY,ACURA SOLUTIONS LTD,2,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Gurgaon, Haryana, India,0,0,0,0,0,0,0,0,0,0,1,0
+616,ASSISTANT MANAGER   CYBER ITGC WITH BIG 5 COMY,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+617,TOOLS CONSULTANT,Wipro,34,6737360,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+618,RPA UI PATH,IDESLABS PRIVATE LIMITED,10,80865,Contrato , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+619,MAINFRAME DEVELOPER,LTIMindtree,4,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,1,0,0,0,1,0
+620,NODEJS DEVELOPER (WITH THE FINTECH FIRM),ACURA SOLUTIONS LTD,1,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+621,ASSOCIATE CONSULTANT  REPORTING WITH A LEADING PHARMACEUTICAL MNC,ACURA SOLUTIONS LTD,2,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,1,0,0,0,0,1,1,0,0,0,1,0
+622,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+623,PROJECT MANAGER,LTIMindtree,0,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+624,OIC DEVELOPER,LTIMindtree,10,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Indore, Madhya Pradesh, India,0,0,0,0,0,1,0,0,0,0,1,1
+625,MANAGER   STATUTORY IT AUDITOR,ACURA SOLUTIONS LTD,2,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,1,1,0,0,0,0,0,0,0
+626,CYBER SECURITY ANALYST,Wipro,156,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Kochi, Kerala, India,0,0,0,0,0,1,0,0,0,0,1,0
+627,JAVA DEVELOPER,IDESLABS PRIVATE LIMITED,15,80865,Contrato , Junior,51-200 colaboradores , Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,1,0
+628,JAVA FULL STACK DEVELOPER,IDESLABS PRIVATE LIMITED,11,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,1
+629,SOLUTION LEAD,IDESLABS PRIVATE LIMITED,6,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+630,LEARNING CONSULTANT,IDESLABS PRIVATE LIMITED,2,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,0,1
+631,SR TEST ENGINEER,IDESLABS PRIVATE LIMITED,41,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,1,0,0,0,0,1,0
+632,SOLACE ADMIN,LTIMindtree,3,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,0,0
+633,MANAGER   E COMMERCE (FOR AGRITECH COMY),ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+634,TEAM LEAD,IDESLABS PRIVATE LIMITED,19,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,1,0
+635,TASC RM ( LEADING PVT BANK),ACURA SOLUTIONS LTD,1,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+636,DATA MODELER,LTIMindtree,9,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,0
+637,BUSINESS ANALYST,IDESLABS PRIVATE LIMITED,66,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+638,ANALYST CONSULTANT (PRIVATE EQUITY),ACURA SOLUTIONS LTD,6,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+639,ASSOCIATE SOFTWARE ENGINEER   REACT JS (FINTECH COMY),ACURA SOLUTIONS LTD,7,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+640,DEVOPS ENGINEER,Wipro,39,6737360,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,1,0,0,0,0,0,0,0,0,0,0,0
+641,TEAM LEAD,IDESLABS PRIVATE LIMITED,88,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+642,ADMINISTRATIVE OFFICER,Tata Consultancy Services,0,11997338,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,0,0
+643,MAINFRAME DEVELOPER,LTIMindtree,11,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,1,0,0,0,1,0
+644,LTI  FOR CENTRAL FINANCE,LTIMindtree,4,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,1,0
+645,SR UI UX DEVELOPER (FRONTEND + UI UX DEVELOPMENT),ACURA SOLUTIONS LTD,2,11244,Tempo integral , Junior,1-10 colaboradores , Imobiliário,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,1
+646,SHAREPOINT MIGRATION ENGINEER,IDESLABS PRIVATE LIMITED,0,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,1,0,0,0,0,1,0
+647,SR ENGINEER,IDESLABS PRIVATE LIMITED,29,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,1,0
+648,SIEBEL DEVELOPER,LTIMindtree,8,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+649,MANUAL TESTER,IDESLABS PRIVATE LIMITED,63,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,0
+650,SOFTWARE ENGINEER,IDESLABS PRIVATE LIMITED,76,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+651,DEVOPS ENGINEER,IDESLABS PRIVATE LIMITED,52,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Chennai, Tamil Nadu, India,1,0,0,0,0,0,0,0,0,0,1,0
+652,AWS ENGINEER,IDESLABS PRIVATE LIMITED,2,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+653,SECURITY WITH S4 HANA,IDESLABS PRIVATE LIMITED,3,80865,Tempo integral , Junior,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+654,BRANCH RELATIONSHIP MANAGER,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+655,PM WITH FICO,IDESLABS PRIVATE LIMITED,11,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+656,FOR BRANCH RELATIONSHIP MANAGER,ACURA SOLUTIONS LTD,0,11244,Tempo integral , Pleno,1-10 colaboradores , Imobiliário,Delhi, Delhi, India,0,0,0,0,0,0,0,0,0,0,1,0
+657,BUSINESS ANALYST,IDESLABS PRIVATE LIMITED,59,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Bangalore Urban, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+658,FUSION FINANCE ARCHITECT,LTIMindtree,2,270267,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,1,0,0,0,0,1,0
+659,PROJECT LEAD,IDESLABS PRIVATE LIMITED,11,80865,Tempo integral , Pleno,51-200 colaboradores , Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+660,ORACLE EPBCS (ENTERPRISE PLANNING AND BUDGETING CLOUD SERVICE),LTIMindtree,0,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,0,0
+661,ORACLE EPBCS (ENTERPRISE PLANNING AND BUDGETING CLOUD SERVICE),LTIMindtree,1,270267,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,0,0
+662,ARTIFICIAL INTELLIGENCE ENGINEER   WFH,Uplers,19,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,1,0,0,0,0,0,0,0,0,0,1,1
+663,DOTNET DEVELOPER  WFH,Uplers,22,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,1
+664,DOTNET DEVELOPER  WFH,Uplers,36,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,New Delhi, Delhi, India,0,0,0,0,0,0,1,0,0,0,1,1
+665,DOTNET DEVELOPER  WFH,Uplers,25,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,1,0,0,0,1,1
+666,FULL STACK DEVELOPER,Uplers,23,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,0,0,0,0,0,1,1
+667,DOTNET DEVELOPER  WFH,Uplers,24,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,1
+668,PYTHON SOFTWARE ENGINEER,Uplers,44,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Ahmedabad, Gujarat, India,1,0,0,0,0,0,1,1,0,1,1,1
+669,DOTNET DEVELOPER  WFH,Uplers,28,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,1,1
+670,DOTNET DEVELOPER  WFH,Uplers,27,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,1,0,0,0,1,1
+671,FULL STACK SOFTWARE ENGINEER,Uplers,18,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,0,0,0,0,0,1,1
+672,SOFTWARE ENGINEER,Uplers,4,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Gurugram, Haryana, India,1,0,0,0,0,1,1,1,0,1,1,0
+673,PYTHON WEB DEVELOPER,Uplers,75,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,0,0,0,1,1,0,1,1,1
+674,BACK END DEVELOPER,Uplers,53,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,1,0
+675,PYTHON TECH LEAD,Uplers,7,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,1,0,0,0,0,0,1,1,0,1,1,1
+676,WEB DEVELOPER   PYTHON,Uplers,66,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Coimbatore, Tamil Nadu, India,1,0,0,0,0,0,1,1,0,1,1,1
+677,WEB DEVELOPER   PYTHON,Uplers,24,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Gurugram, Haryana, India,1,0,0,0,0,0,1,1,0,1,1,1
+678,SR SOFTWARE ENGINEER,Uplers,5,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Gurugram, Haryana, India,1,0,0,0,0,1,1,1,0,1,1,0
+679,WEB DEVELOPER   PYTHON,Uplers,112,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,1,0,0,0,0,0,1,1,0,1,1,1
+680,PYTHON SOFTWARE ENGINEER,Uplers,35,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,1,0,0,0,0,0,1,1,0,1,1,1
+681,SOFTWARE ENGINEER  BLOCKCHAIN,Uplers,35,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,1,0,0,0,0,0,0,0,0,0,1,0
+682,SEARCH EXECUTIVE,Uplers,20,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+683,FULL STACK DEVELOPER,Uplers,38,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,0,0,0,0,0,1,1
+684,DATA ARCHITECT,Uplers,1,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,0,0,1,1,0,0,1,1,0
+685,SOFTWARE ENGINEER  BLOCKCHAIN,Uplers,11,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,1,0,0,0,0,0,0,0,0,0,1,0
+686,SOFTWARE ENGINEER  BLOCKCHAIN,Uplers,32,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,New Delhi, Delhi, India,1,0,0,0,0,0,0,0,0,0,1,0
+687,CLOUD SOFTWARE ENGINEER,Uplers,21,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Indore, Madhya Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+688,DATA SCIENTIST  WFH,Uplers,112,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,1,0,0,0,1,1,1,0,0,0,1,0
+689,PPC EXECUTIVE,Uplers,28,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+690,SOFTWARE ENGINEER  BLOCKCHAIN,Uplers,13,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,1,0,0,0,0,0,0,0,0,0,1,0
+691,DATA SCIENTIST  WFH,Uplers,74,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,1,0,0,0,1,1,1,0,0,0,1,0
+692,SOFTWARE ENGINEER  BLOCKCHAIN,Uplers,64,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,0,0,0,0,0,0,0,1,0
+693,TECHNICAL ARCHITECT,Uplers,2,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,0,0,1,1,0,0,1,1,0
+694,BIG DATA ENGINEER   WFH,Uplers,27,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,0,0,0,1,0,0,0,1,0
+695,LINUX LEAD,Infosys,61,6789996,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,0,0
+696,EMBEDDED ENGINEER,Tata Consultancy Services,57,11997338,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+697,UI UX DESIGNER,Uplers,166,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,1,1,0,0,0,1,1
+698,PYTHON,Tata Consultancy Services,148,11997338,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,0,0,1,0,0,0,0,1,1
+699,SF TECH ARCHITECT,Uplers,1,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+700,PYTHON DEVELOPER,Uplers,65,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,1,0,0,0,0,0,1,0,0,0,1,0
+701,SYSTEMS ENGINEER  BACK END,Uplers,50,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,0,0,0,1,0,0,0,1,0
+702,ANDROID ENGINEER  WFH,Uplers,23,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+703,NODEJS LEAD,Infosys,99,6789996,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+704,SR SALESFORCE DEVELOPER (WFH),Uplers,20,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Indore, Madhya Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,1
+705,ANDROID APP DEVELOPER  WFH,Uplers,10,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+706,DATA SCIENTIST  WFH,Uplers,48,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,1,0,0,0,1,1,1,0,0,0,1,0
+707,TECHNOLOGY ANALYST   NET,Infosys,191,6789996,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Gurugram, Haryana, India,0,0,0,0,0,0,0,0,0,0,1,0
+708,ANDROID APP DEVELOPER  WFH,Uplers,15,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,1,0
+709,PPC EXECUTIVE  ASSOCIATE,Uplers,44,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+710,PYTHON SOFTWARE DEVELOPER,Uplers,68,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Ahmedabad, Gujarat, India,1,0,0,0,0,0,1,0,0,0,1,0
+711,UNITY DEVELOPER (WFH),Uplers,3,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Gurugram, Haryana, India,1,0,0,0,0,0,0,0,0,0,1,0
+712,DOTNET SOFTWARE DEVELOPER,Uplers,30,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,1,0,0,0,1,1
+713,BACK END DEVELOPER,Uplers,47,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+714,CLOUD SOFTWARE ENGINEER,Uplers,18,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,0,0,0,0,1,0
+715,UNITY DEVELOPER (WFH),Uplers,2,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,1,0,0,0,0,0,0,0,0,0,1,0
+716,DATA SOLUTIONS ARCHITECT,Uplers,4,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,0,0,1,1,0,0,1,1,0
+717,DATA ENGINEERING EXPERT   WFH,Uplers,4,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Gurugram, Haryana, India,1,0,0,0,0,0,1,0,0,0,1,0
+718,DOTNET SOFTWARE DEVELOPER,Uplers,25,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Ahmedabad, Gujarat, India,0,0,0,0,0,0,1,0,0,0,1,1
+719,SEARCH ENGINE MARKETING (SEM) MANAGER,Uplers,5,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+720,DATA ENGINEERING EXPERT   WFH,Uplers,13,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,1,0,0,0,0,0,1,0,0,0,1,0
+721,DATA ENGINEER,Uplers,40,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Ahmedabad, Gujarat, India,1,0,0,0,0,0,1,0,0,0,1,0
+722,MANAGER   SEARCH ENGINE MARKETING,Uplers,3,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+723,UNITY DEVELOPER (WFH),Uplers,5,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,0,0,0,0,0,0,0,1,0
+724,FULL STACK DEVELOPER (REACT & NODEJS),Uplers,22,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,0,0,0,0,0,1,1
+725,FOR OTC  JAIPUR,Genpact,47,2519516,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,1,0,0,0,0,1,0
+726,SF TECH ARCHITECT   ASSOCIATE,Uplers,5,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+727,ASSOCIATE PYTHON PROGRAMMER,Uplers,59,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Ahmedabad, Gujarat, India,1,0,0,0,0,0,1,1,0,1,1,1
+728,PYTHON DEVELOPER,Uplers,136,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,1,0,0,0,0,0,1,0,0,0,1,0
+729,STAFF SOFTWARE ENGINEER,Uplers,11,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Gurugram, Haryana, India,1,0,0,0,0,1,1,1,0,1,1,0
+730,CLOUD SOFTWARE ENGINEER,Uplers,36,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+731,PERFORMANCE MARKETING EXECUTIVE,Uplers,20,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+732,JAVA ASSOCIATE DEVELOPER (WFH),Uplers,48,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,1,1
+733,LEAD GOOGLE ANALYTICS (WFH),Uplers,13,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Ahmedabad, Gujarat, India,0,0,0,1,0,0,0,0,0,0,1,1
+734,ASSOCIATE   PROGRAMMATIC,Uplers,27,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,1,0,0,0,0,1,0
+735,DOTNET SOFTWARE DEVELOPER,Uplers,29,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,1,0,0,0,1,1
+736,TECHNOLOGY ANALYST   NET,Infosys,144,6789996,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Coimbatore, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,1,0
+737,DOTNET DEVELOPER,Infosys,170,6789996,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Trivandrum, Kerala, India,0,0,0,0,0,0,0,0,0,0,1,0
+738,FULLSTACK DEVELOPER,Uplers,33,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,0,0,0,0,0,1,1
+739,DOTNET SOFTWARE DEVELOPER,Uplers,29,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,1,0,0,0,1,1
+740,SR QUALITY ANALYST,Uplers,111,793014,Tempo integral , Associado,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,1,0,0,0,1,1
+741,LEAD DATA ENGINEER,Uplers,3,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,1,1,1,1,0,0,0,1,0
+742,SEM SPECIALIST,Uplers,6,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+743,DOTNET SOFTWARE DEVELOPER,Uplers,31,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,1,0,0,0,1,1
+744,TECHNOLOGY ANALYST   NODEJS    JAIPUR,Infosys,30,6789996,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,0,0,0,0,0,1,0
+745,SR QUALITY ANALYST,Uplers,55,793014,Tempo integral , Associado,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,1,1,0,0,0,1,1
+746,DOTNET SOFTWARE DEVELOPER,Uplers,23,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,South Delhi, Delhi, India,0,0,0,0,0,0,1,0,0,0,1,1
+747,NODEJS,Tata Consultancy Services,7,11997338,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,1,0
+748,EMBEDDED ENGINEER,Tata Consultancy Services,93,11997338,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,1,0,0,0,0,0,0,0,0,0,0,0
+749,JAVA DEVELOPER (3 5 YRS),Infosys,42,6789996,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Bhubaneswar, Odisha, India,0,0,0,0,0,1,0,0,0,0,1,0
+750,PYTHON PROGRAMMER,Uplers,20,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Coimbatore, Tamil Nadu, India,1,0,0,0,0,0,1,1,0,1,1,1
+751,NET FRAMEWORK DEVELOPER,Uplers,32,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Ahmedabad, Gujarat, India,0,0,0,0,0,0,1,0,0,0,1,1
+752,ANDROID DEVELOPER  WFH,Uplers,90,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,0,0,0,0,0,1,0
+753,AD TECH SPECIALIST,Uplers,7,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Indore, Madhya Pradesh, India,0,0,0,0,0,1,0,0,0,0,1,0
+754,NODEJS,Tata Consultancy Services,16,11997338,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+755,PYTHON DEVELOPER,Uplers,47,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,1,0,0,0,0,0,1,0,0,0,1,0
+756,SOFTWARE ENGINEER (WFH),Uplers,15,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Gurugram, Haryana, India,0,0,0,0,0,0,1,0,0,0,1,1
+757,PYTHON,Tata Consultancy Services,168,11997338,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,0,0,0,0,0,0,0,1,1
+758,C++ DEVELOPER,Genpact,72,2519516,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,0,0,0,0,0,0,0,1,0
+759,DOTNET DEVELOPER,Infosys,45,6789996,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Mohali district, Punjab, India,0,0,0,0,0,0,0,0,0,0,1,0
+760,AI ENGINEER   WFH,Uplers,64,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,1,0,0,0,0,0,0,0,0,0,1,1
+761,LEAD DATA ENGINEER   WFH,Uplers,12,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,1,0,0,0,0,0,1,0,0,0,1,0
+762,NET CORE DEVELOPER,Uplers,34,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,1,0,0,0,1,1
+763,AUTOMOTIVE EMBEDDED CYBERSECURITY,Tata Consultancy Services,19,11997338,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,0,0
+764,JAVA SOFTWARE ENGINEER,Uplers,34,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Noida, Uttar Pradesh, India,0,0,0,0,0,0,1,0,0,0,1,1
+765,SEARCH ENGINE MARKETING MANAGER,Uplers,3,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+766,NODEJS,Tata Consultancy Services,21,11997338,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+767,TECHNOLOGY ANALYST   DEVOPS      BHUBANESWAR,Infosys,126,6789996,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bhubaneswar, Odisha, India,0,0,0,0,0,0,0,0,0,0,1,0
+768,ANDROID DEVELOPER  WFH,Uplers,33,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,0,0,0,0,0,1,0
+769,BLOCKCHAIN SOFTWARE DEVELOPER,Uplers,7,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Ahmedabad, Gujarat, India,1,0,0,0,0,0,0,0,0,0,1,0
+770,REACT DEVELOPER,Uplers,70,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,0,0,0,0,0,0,0
+771,JAVA DEVELOPER (5 8 YRS),Infosys,20,6789996,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Bhubaneswar, Odisha, India,0,0,0,0,0,1,0,0,0,0,1,0
+772,FULL STACK ENGINEER (REACT NODEJS),Uplers,14,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,0,0,0,0,0,1,1
+773,EMBEDDED ENGINEER,Tata Consultancy Services,58,11997338,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+774,UI UX DESIGNER,Uplers,167,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,1,1,0,0,0,1,1
+775,DATABASE ENGINEER,Uplers,27,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,1,1,1,1,0,0,0,1,0
+776,FOR RTR  JAIPUR,Genpact,133,2519516,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,1,0,0,0,0,1,0
+777,NODEJS LEAD,Infosys,69,6789996,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Nagpur, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+778,TECHNOLOGY ANALYST   NODEJS    PUNE,Infosys,74,6789996,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+779,MOBILE DEVELOPER  ANDROID,Uplers,9,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+780,DOTNET DEVELOPER,Infosys,115,6789996,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Bhubaneswar, Odisha, India,0,0,0,0,0,0,0,0,0,0,1,0
+781,NODE JS,Tata Consultancy Services,196,11997338,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+782,ASSOCIATE DIGITAL MARKETING (WFH),Uplers,30,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+783,ASSOCIATE DIGITAL MARKETING (WFH),Uplers,33,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+784,NODEJS,Tata Consultancy Services,20,11997338,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+785,ENGINEER   LEAD,Uplers,8,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Gurugram, Haryana, India,1,0,0,0,0,0,1,1,0,1,1,0
+786,JAVA DEVELOPER,Infosys,44,6789996,Tempo integral , Pleno,"10,001+ colaboradores ", Serviços e consultoria em TI,Indore, Madhya Pradesh, India,0,0,0,0,0,1,0,0,0,0,1,0
+787,MOBILE DEVELOPER  ANDROID,Uplers,21,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,0,0,0,0,0,1,0
+788,SEARCH EXECUTIVE,Uplers,6,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Mangaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+789,PYTHON DEVELOPER   WFH,Uplers,79,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Gurugram, Haryana, India,1,0,0,0,0,0,1,1,0,1,1,1
+790,CAMPAIGN ANALYST   PROGRAMMATIC,Uplers,6,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Kolkata, West Bengal, India,0,0,0,0,0,1,0,0,0,0,1,0
+791,PYTHON DEVELOPER   WFH,Uplers,75,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,1,0,0,0,0,0,1,1,0,1,1,1
+792,PPC SPECIALIST,Uplers,27,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,0,0,0,0,0,1,0
+793,AD OPERATIONS SPECIALIST,Uplers,17,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Jaipur, Rajasthan, India,0,0,0,0,0,1,0,0,0,0,1,0
+794,REACT DEVELOPER,Uplers,77,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Surat, Gujarat, India,0,0,0,0,0,0,0,0,0,0,0,0
+795,PPC EXECUTIVE  ASSOCIATE,Uplers,24,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Bengaluru, Karnataka, India,0,0,0,0,0,1,0,0,0,0,1,0
+796,SF TECH ARCHITECT   ASSOCIATE,Uplers,3,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,0,0,0,0,0,1,0,0,0,0,1,0
+797,DATA ENGINEER,Uplers,11,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,1,0,0,1,1,1,1,0,0,0,1,0
+798,TECHNOLOGY ANALYST   NODEJS,Infosys,77,6789996,Tempo integral , Junior,"10,001+ colaboradores ", Serviços e consultoria em TI,Bhubaneswar, Odisha, India,0,0,0,0,0,0,0,0,0,0,1,0
+799,GOOGLE ANALYTICS ASSOCIATE   WFH,Uplers,84,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,1,0,0,0,0,0,0,1,1
+800,NODE JS,Tata Consultancy Services,38,11997338,Tempo integral , Associado,"10,001+ colaboradores ", Serviços e consultoria em TI,Bhubaneswar, Odisha, India,0,0,0,0,0,1,0,0,0,1,1,0
+801,MOBILE DEVELOPER  ANDROID,Uplers,18,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,0,0,0,0,0,1,0
+802,PROGRAMMATIC EXECUTIVE,Uplers,15,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Hyderabad, Telangana, India,0,0,0,0,0,1,0,0,0,0,1,0
+803,MOBILE DEVELOPER  ANDROID,Uplers,14,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Gurugram, Haryana, India,0,0,0,0,0,0,0,0,0,0,1,0
+804,DATA ENGINEER,Uplers,41,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Mumbai, Maharashtra, India,1,0,0,0,0,0,1,0,0,0,1,0
+805,ANDROID DEVELOPER,Uplers,9,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Pune, Maharashtra, India,0,0,0,0,0,0,0,0,0,0,1,0
+806,PYTHON SOFTWARE DEVELOPER,Uplers,113,793014,Tempo integral , Pleno,"1,001-5,000 colaboradores ", Serviços e consultoria em TI,Chennai, Tamil Nadu, India,1,0,0,0,0,0,1,0,0,0,1,0
